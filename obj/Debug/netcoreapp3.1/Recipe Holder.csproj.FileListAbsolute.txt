@@ -1,0 +1,35 @@
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\Recipe Holder.exe
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\Recipe Holder.deps.json
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\Recipe Holder.runtimeconfig.json
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\Recipe Holder.runtimeconfig.dev.json
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\Recipe Holder.dll
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\Recipe Holder.pdb
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\Recipe Holder.Views.dll
+C:\Users\chris\codecamp\Recipe Holder\bin\Debug\netcoreapp3.1\Recipe Holder.Views.pdb
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.csprojAssemblyReference.cache
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\staticwebassets\Recipe Holder.StaticWebAssets.Manifest.cache
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\staticwebassets\Recipe Holder.StaticWebAssets.xml
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.RazorAssemblyInfo.cache
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.RazorAssemblyInfo.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.AssemblyInfoInputs.cache
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.AssemblyInfo.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.TagHelpers.input.cache
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.TagHelpers.output.cache
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.RazorCoreGenerate.cache
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.RazorTargetAssemblyInfo.cache
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.RazorTargetAssemblyInfo.cs
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.Views.pdb
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.dll
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.pdb
+C:\Users\chris\codecamp\Recipe Holder\obj\Debug\netcoreapp3.1\Recipe Holder.csproj.CopyComplete
